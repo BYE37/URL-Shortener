@@ -1,0 +1,15 @@
+{% extends "index.html" %}
+{% block title %}shorten URL{% endblock %}
+
+{% block content %}
+<form action="#", method="post">
+    <label for="url">Enter a URL in the format: https://URL</label>
+
+    <input type="url" name="urlform" id="url"
+       placeholder="https://google.com"
+       pattern="https://.*" size="50"
+       required>
+    <br>
+    <input type="submit" class="urlButton" value="submit">
+</form>
+{% endblock %}
