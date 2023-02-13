@@ -9,3 +9,7 @@ SQLAlchemy: https://docs.sqlalchemy.org/en/20/intro.html</p>
 
 <h1>Running the Project</h1>
 <p>To run the project, open app.py and execute it.</p>
+
+<h1>Author:</h1>
+Brandon Ye<br>
+bye4242@gmail.com
