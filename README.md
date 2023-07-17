@@ -12,4 +12,4 @@ SQLAlchemy: https://docs.sqlalchemy.org/en/20/intro.html</p>
 
 <h1>Author:</h1>
 Brandon Ye<br>
-bye4242@gmail.com
+brandonzhouye@gmail.com
